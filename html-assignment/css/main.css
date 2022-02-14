@@ -1,0 +1,48 @@
+/*CSS comment */
+
+body {
+    font-family: arial;
+    font-size: 18px;
+}
+
+header,footer {
+    background-color: lightpink;
+}
+
+.site-title{
+    color: blueviolet;
+}
+
+
+#my-image {
+    box-shadow: 0 0 2px 1px black;
+    
+}
+
+ul {
+    list-style-type: square;
+}
+
+li:nth-child(odd) {
+    background-color: beige;
+
+}
+
+
+a:link, a:active {
+    text-decoration: none;
+}
+
+a:link {
+    background-color:lavender
+       
+}
+
+a.border {
+    border-style: solid;
+    border-color: red;
+}
+
+a:hover {
+    background-color: yellow;
+}
