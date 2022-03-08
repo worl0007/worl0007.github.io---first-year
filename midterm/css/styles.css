@@ -1,0 +1,44 @@
+
+body{
+    background-color:#aad4cf 
+    
+}
+
+header{
+    color: white;
+    font-size: 30px;
+   
+   
+
+}
+
+.wrapper {
+    width: 600px;
+    margin: 0 auto;
+}
+
+
+
+img {
+    width: 200px;
+    float: left;
+}
+
+
+
+
+p {
+    background-color: #aad4cf
+}
+
+article {
+    width: 800px;
+    height: 2=400px;
+    border-style: solid;
+    
+
+}
+
+
+
+
