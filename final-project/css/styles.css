@@ -173,13 +173,13 @@ h3{
     color: white;
     background-color: rgb(54, 53, 44);
 }
-.tabil .row{
+.table .row{
     background-color: rgb(247, 225, 178);
 }
-.tabil h2{
+.table h2{
     margin-left: 50px;
 }
-.tabil h6{
+.table h6{
     background-color: orange;
     padding: 5px;
 }
@@ -200,11 +200,11 @@ h3{
     width: 100%;
 }
 
-.tabil .row{
+.table .row{
     padding: 15px;
     
 }
-.tabil .col-2 p{
+.table .col-2 p{
     border: #333 1px solid;
     padding: 10px;
     padding-right: 100px;
